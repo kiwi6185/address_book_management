@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d3db340-be3a-4e39-9739-7c2e41b01e1f" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22fnesdFuYt6OtsV5blljWYuLNh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/20计科1_25_李思欣/通讯录管理系统" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java_Web\workspace\通讯录管理系统\src\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java_Web\workspace\通讯录管理系统" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Client" />
+      <module name="通讯录管理系统" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.LoginView" />
+      <module name="通讯录管理系统" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Main" />
+      <module name="通讯录管理系统" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.Server" />
+      <module name="通讯录管理系统" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.LoginView" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3db340-be3a-4e39-9739-7c2e41b01e1f" name="默认更改列表" comment="" />
+      <created>1640237607810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640237607810</updated>
+      <workItem from="1640237609857" duration="10369000" />
+      <workItem from="1640260182873" duration="643000" />
+      <workItem from="1640260922262" duration="12508000" />
+      <workItem from="1640305659107" duration="10773000" />
+      <workItem from="1640324185696" duration="7997000" />
+      <workItem from="1640332327045" duration="3004000" />
+      <workItem from="1640352421139" duration="7945000" />
+      <workItem from="1640393533287" duration="8128000" />
+      <workItem from="1640437850944" duration="10289000" />
+      <workItem from="1640448682443" duration="2706000" />
+      <workItem from="1640481559759" duration="4331000" />
+      <workItem from="1640489223194" duration="15000" />
+      <workItem from="1640501671158" duration="7272000" />
+      <workItem from="1640574828470" duration="14000" />
+      <workItem from="1640591863109" duration="2061000" />
+      <workItem from="1640609958926" duration="1632000" />
+      <workItem from="1640680124808" duration="596000" />
+      <workItem from="1640746836421" duration="1623000" />
+      <workItem from="1640764912726" duration="629000" />
+      <workItem from="1640824403097" duration="5176000" />
+      <workItem from="1640830257834" duration="104000" />
+      <workItem from="1640948315695" duration="411000" />
+      <workItem from="1640958843155" duration="251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="324" y="95" key="#SQL_方言" timestamp="1640397816596">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="324" y="95" key="#SQL_方言/0.0.1463.874@0.0.1463.874" timestamp="1640397816596" />
+    <state x="324" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1640357524463">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="324" y="95" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.874@0.0.1463.874" timestamp="1640357524463" />
+    <state x="569" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640440510882">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="569" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.874@0.0.1463.874" timestamp="1640440510882" />
+    <state x="537" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1640444952305">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="537" y="146" key="#com.intellij.ide.util.MemberChooser/0.0.1463.874@0.0.1463.874" timestamp="1640444952305" />
+    <state x="567" y="321" width="329" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1640483467509">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="567" y="321" width="329" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1463.874@0.0.1463.874" timestamp="1640483467509" />
+    <state x="351" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1640395804600">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="351" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1463.874@0.0.1463.874" timestamp="1640395804600" />
+    <state x="462" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1640270072915">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="462" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1463.874@0.0.1463.874" timestamp="1640270072915" />
+    <state x="324" y="95" key="#项目结构" timestamp="1640237843040">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="324" y="95" key="#项目结构/0.0.1463.874@0.0.1463.874" timestamp="1640237843040" />
+    <state x="512" y="192" key="FileChooserDialogImpl" timestamp="1640830357990">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="512" y="192" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1640830357990" />
+    <state width="1420" height="140" key="GridCell.Tab.0.bottom" timestamp="1640948728817">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="140" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1640948728817" />
+    <state width="1420" height="140" key="GridCell.Tab.0.center" timestamp="1640948728816">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="140" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1640948728816" />
+    <state width="1420" height="140" key="GridCell.Tab.0.left" timestamp="1640948728816">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="140" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1640948728816" />
+    <state width="1420" height="140" key="GridCell.Tab.0.right" timestamp="1640948728816">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="140" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1640948728816" />
+    <state width="1420" height="270" key="GridCell.Tab.1.bottom" timestamp="1640748501153">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="270" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1640748501153" />
+    <state width="1420" height="270" key="GridCell.Tab.1.center" timestamp="1640748501152">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="270" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1640748501152" />
+    <state width="1420" height="270" key="GridCell.Tab.1.left" timestamp="1640748501152">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="270" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1640748501152" />
+    <state width="1420" height="270" key="GridCell.Tab.1.right" timestamp="1640748501153">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="270" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1640748501153" />
+    <state x="212" y="11" key="SettingsEditor" timestamp="1640353173947">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="212" y="11" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1640353173947" />
+    <state x="362" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1640311841515">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="362" y="52" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1463.874@0.0.1463.874" timestamp="1640311841515" />
+    <state x="462" y="215" key="extract.method.dialog" timestamp="1640309886792">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="462" y="215" key="extract.method.dialog/0.0.1463.874@0.0.1463.874" timestamp="1640309886792" />
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1640400351030">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1640400351030" />
+  </component>
+</project>
